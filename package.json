@@ -2,7 +2,7 @@
   "name": "dad-jokes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Abduallah-Mohamed.github.io/Todo-App",
+  "homepage": "http://Abduallah-Mohamed.github.io/Dad-Jokes",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
